@@ -58,7 +58,7 @@ This repository does **not host any files or direct download links**, in order t
 - David Autor - MIT - Microeconomic Theory and Public Policy 
 - Douglas Hanley - Pittsburgh - Intermediate Microeconomics
 - Edward Glaeser - Harvard - Intermediate Microeconomics (v)
-- Glen Weyl - Chicago - Price Theory and Market Design
+- Glen Weyl - Chicago - Price Theory and Market Design (v)
 - Muhamet Yildiz - MIT - Economic Applications of Game Theory
 - Muhamet Yildiz - MIT - Microeconomic Theory III
 - Robert Townsend - MIT - Intermediate Microeconomic Theory (v)
