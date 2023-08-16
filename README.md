@@ -2,7 +2,7 @@
 
 This repository is **a curated list of publicly available lecture notes** on economics. It is meant to serve as a helpful self-learning resource for economics students and anyone interested in the field. I collected these resources during my time in graduate school and found that *I personally favor lecture notes over textbooks as they are often less cumbersome (and free!), and over lecture slides as they are generally more self-contained*. This compilation spans a wide range of economics fields, covering both introductory economics and advanced subjects. However, it doesn't cover all areas of economics and is largely influenced by my personal interests and limited attention. Everyone is welcomed to suggest new additions to the list by submitting a pull request or rasing an issue. 
 
-This repository does **not host any files or direct download links**, in order to respect the intellectual property rights of authors and institutions. This repository *only provides information about publicly available lecture notes on economics, i.e. the course names or the lecture notes names, and their authors and affiliations, in order to address the problem of "unknown unknowns"*. Users are encouraged to search for the specified lecture notes on the internet based on the provided information. 
+This repository does **not host any files or direct download links**, in order to respect the intellectual property rights of authors and institutions. This repository *only provides information about publicly available lecture notes on economics, i.e. the course names or the lecture notes names, and their authors and affiliations, aiming to address the problem of "unknown unknowns"*. Users are encouraged to search for the specified lecture notes on the internet based on the provided information. 
 
 (Symbols: (v) with videos; (s) slides only)
 
@@ -313,12 +313,10 @@ This repository does **not host any files or direct download links**, in order t
 - Esteban Rossi-Hansberg - Princeton - International Trade  / Urban Economics (s)
 - Frederic Robert-Nicoud - Geneva - Urban / International trade
 - Kohei Takeda - NUS - Note of international economics
-- 
 - Jonathan Dingel - Chicago - International Macroeconomics and Trade (s)
 - Urban Economics Association Lecture - 2020 (v)
 - Stephen Redding - Princeton - Spatial Economics Lectures (s)
 - Treb Allen & Costas Arkolakis - Northwestern/Yale - Class Notes for Graduate Trade
-
 - Xin Tang - Wuhan - Lecture Notes on the Empirical and Quantitative Methods in International Trade
 
 **Miscellaneous (Spatial)**
