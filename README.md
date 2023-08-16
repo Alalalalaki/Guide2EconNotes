@@ -1,4 +1,4 @@
-# Economics Lecture Notes
+# List of Economics Lecture Notes
 
 This repository is **a curated list of publicly available lecture notes** on economics. It is meant to serve as a helpful self-learning resource for economics students and anyone interested in the field. I collected these resources during my time in graduate school and found that *I personally favor lecture notes over textbooks as they are often less cumbersome (and free!), and over lecture slides as they are generally more self-contained*. This compilation spans a wide range of economics fields, covering both introductory economics and advanced subjects. However, it doesn't cover all areas of economics and is largely influenced by my personal interests and limited attention. Everyone is welcomed to suggest new additions to the list by submitting a pull request or rasing an issue. 
 
