@@ -61,6 +61,7 @@ This repository does **not host any files or direct download links**, in order t
 - Glen Weyl - Chicago - Price Theory and Market Design
 - Muhamet Yildiz - MIT - Economic Applications of Game Theory
 - Muhamet Yildiz - MIT - Microeconomic Theory III
+- Robert Townsend - MIT - Intermediate Microeconomic Theory (v)
 - Selçuk Özyur - York - Game Theory (v)
 - Simon Board - UCLA - Microeconomic Theory
 - Tilman Börgers - Yale - Lecture Notes on Microeconomic Theory
