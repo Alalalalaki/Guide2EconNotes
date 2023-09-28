@@ -14,7 +14,7 @@ This repository does **not host any files or direct download links**, in order t
 
 **Undergradate**
 
-- Joel Sobel & Joel Watson - UCSD - Math Prep Notes
+- Joel Sobel - UCSD - Mathematics for Economists
 - Juan Pablo Rincón-Zapatero - UC3M - Mathematics for Economics / Advanced Mathematics for Economics
 - Martin J. Osborne - Toronto - Mathematical methods for economic theory
 - Natalia Lazzati - UCSC - Mathematics for Economics
