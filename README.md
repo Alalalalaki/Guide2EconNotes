@@ -61,6 +61,7 @@ This repository does **not host any files or direct download links**, in order t
 - Glen Weyl - Chicago - Price Theory and Market Design (v)
 - Muhamet Yildiz - MIT - Economic Applications of Game Theory
 - Muhamet Yildiz - MIT - Microeconomic Theory III
+- Nolan Miller - Illinois - Notes on Microeconomic Theory
 - Robert Townsend - MIT - Intermediate Microeconomic Theory (v)
 - Selçuk Özyur - York - Game Theory (v)
 - Simon Board - UCLA - Microeconomic Theory
@@ -79,7 +80,6 @@ This repository does **not host any files or direct download links**, in order t
 - Luca Rigotti - Pittsburgh - Advanced Microeconomic Theory
 - Macartan Humphreys - Columbia - Game Theory
 - Navin Kartik - UCSD - Lecture Notes for 1st Year Ph.D. Game Theory 
-- Nolan Miller - Illinois - Notes on Microeconomic Theory
 - Omer Tamuz - CIT - Graduate Game Theory Lecture Notes 
 - Omer Tamuz - CIT - Foundations of Economics Lecture Notes 
 - Quirino Paris - UC Davis - Optimization with economic applications
