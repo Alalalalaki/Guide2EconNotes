@@ -289,6 +289,7 @@ This repository does **not host any files or direct download links**, in order t
 - Daniel Yi Xu - Duke - Innovation, Productivity, and Industry Dynamics (s) / Topics in IO (s) / Quantitative Dynamic Model (s)
 - Econometric Society Summer School - Dynamic Structural Econometrics (s)
 - Hema Yoganarasimhan - WashingtonYale - Dynamic Structural Models
+- Kohei Kawaguchi - HKUST - Topics in Empirical Industrial Organization 
 - Jean-Fran ̧cois Houde - Cornell - Empirical IO (s)
 - John Asker - UCLA - PhD IO 
 - Jonathan Levin - Stanford - Grad IO (s) 
